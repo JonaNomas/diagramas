@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2023-05-25T00:00:00.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="qruoG0hYsQ6Ee8VmrmLJ" version="12.9.10" type="github">
+  <diagram name="Project Management Plan" id="abcdefg123456789">
+    <mxGraphModel dx="1221" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cf5SoD5GGMmA8NEK9c5V-2" value="Project Management Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="120" width="310" height="410" as="geometry" />
+        </mxCell>
+        <!-- Etapa 1: Inicio -->
+        <mxCell id="Cf5SoD5GGMmA8NEK9c5V-3" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf5SoD5GGMmA8NEK9c5V-4" value="Definir el alcance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf5SoD5GGMmA8NEK9c5V-5" value="Identificar stakeholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <!-- Etapa 2: Planificación -->
+        <mxCell id="Cf5SoD5GGMmA8NEK9c5V-6" value="Planificación" style="rounded=0;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf5SoD5GGMmA8NEK9c5V-7" value="Crear el cronograma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="50" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-8" value="Estimar los costos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+<mxGeometry x="780" y="430" width="120" height="50" as="geometry" />
+</mxCell>
+<!-- Etapa 3: Ejecución -->
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-9" value="Ejecución" style="rounded=0;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
+<mxGeometry x="330" y="460" width="30" height="60" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-10" value="Desarrollo del software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+<mxGeometry x="520" y="440" width="140" height="50" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-11" value="Pruebas del software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+<mxGeometry x="780" y="550" width="140" height="50" as="geometry" />
+</mxCell>
+<!-- Etapa 4: Seguimiento y Control -->
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-12" value="Seguimiento y Control" style="rounded=0;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
+<mxGeometry x="330" y="600" width="30" height="60" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-13" value="Monitoreo del avance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+<mxGeometry x="520" y="580" width="140" height="50" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-14" value="Control del alcance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+<mxGeometry x="780" y="690" width="140" height="50" as="geometry" />
+</mxCell>
+<!-- Etapa 5: Cierre -->
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-15" value="Cierre" style="rounded=0;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
+<mxGeometry x="330" y="740" width="30" height="60" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoDD5GGMmA8NEK9c5V-16" value="Entrega del proyecto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+<mxGeometry x="520" y="720" width="140" height="50" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-17" value="Evaluación del proyecto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+<mxGeometry x="780" y="830" width="140" height="50" as="geometry" />
+</mxCell>
+<!-- Conexiones entre las etapas -->
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-4" target="Cf5SoD5GGMmA8NEK9c5V-10">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-5" target="Cf5SoD5GGMmA8NEK9c5V-10">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-7" target="Cf5SoD5GGMmA8NEK9c5V-11">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-10" target="Cf5SoD5GGMmA8NEK9c5V-13">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-11" target="Cf5SoD5GGMmA8NEK9c5V-13">
+<mxGeometryrelative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-13" target="Cf5SoD5GGMmA8NEK9c5V-14">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-14" target="Cf5SoD5GGMmA8NEK9c5V-16">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-16" target="Cf5SoD5GGMmA8NEK9c5V-17">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-13" target="Cf5SoD5GGMmA8NEK9c5V-18">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="Cf5SoD5GGMmA8NEK9c5V-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf5SoD5GGMmA8NEK9c5V-14" target="Cf5SoD5GGMmA8NEK9c5V-18">
+<mxGeometry relative="1" as="geometry" />
+</mxCell>
+</root>
+</mxGraphModel>
+</diagram>
+</mxfile>
