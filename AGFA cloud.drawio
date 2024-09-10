@@ -130,7 +130,7 @@
         <mxCell id="J8CIwzdVPE4J4kO2KIIt-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;" parent="1" source="J8CIwzdVPE4J4kO2KIIt-23" target="J8CIwzdVPE4J4kO2KIIt-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5s5nS34tcTDpUClMowV-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Respaldo&lt;/h1&gt;&lt;p&gt;Respaldo de las iamgenes y datos de los estudio y pacientes&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p5s5nS34tcTDpUClMowV-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Respaldo&lt;/h1&gt;&lt;p&gt;Respaldo de las imagenes y datos de los estudio y pacientes&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="607" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
